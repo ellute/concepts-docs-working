@@ -1,0 +1,3 @@
+# Einheitliche Zeilenenden (LF) für Textdateien,
+# damit Windows und andere Systeme keine Schein-Änderungen erzeugen.
+* text=auto eol=lf

@@ -1,0 +1,19 @@
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+
+# Office-Sperrdateien
+~$*
+
+# Editoren
+.vscode/
+.idea/
+*.swp
+*~
+
+# Lokale Notizen, die nicht ins Repo sollen
+*.local.md
