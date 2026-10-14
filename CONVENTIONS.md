@@ -20,10 +20,11 @@ Word/PDF für Externe werden aus dem Markdown erzeugt und nicht separat gepflegt
 1. Vor dem Arbeiten: `main` aktualisieren (`git pull`).
 2. Eigenen Branch erstellen – nie direkt auf `main` arbeiten.
 3. Committen, Branch pushen, Pull Request öffnen.
-4. Mindestens eine andere Person prüft und mergt.
+4. PR prüfen und mergen – wenn möglich durch eine zweite Person.
 5. Branch nach dem Merge löschen.
 
-`main` ist durch ein Ruleset geschützt: kein direkter Push, kein Force-Push, PR mit 1 Freigabe zwingend.
+`main` ist durch ein Ruleset geschützt: kein direkter Push, kein Force-Push, PR zwingend.
+Zurzeit ist keine formelle Freigabe nötig (Required approvals: 0); sobald Kollegen mitarbeiten, auf 1 erhöhen.
 
 ## Branch-Namen
 
