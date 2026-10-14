@@ -30,7 +30,7 @@ Zurzeit ist keine formelle Freigabe nötig (Required approvals: 0); sobald Kolle
 
 `<wer>/<thema>`, nur Kleinbuchstaben und Bindestriche.
 
-- `enrique/followup-sams`
+- `enrique/sample-repo`
 - `claude/conventions`
 
 ## Ordner und Dateien
